@@ -1,13 +1,12 @@
-# CV_Example
+# CV_Camilo Buitrago
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
-
+## Julian Camilo Buitrago Bejarano
+**Profesión:** _Gestion de Mercados_
+Tecnólogo en Gestión de Mercados con una sólida trayectoria en la creación de experiencias de marca impactantes, fusionando estratégicamente el visual merchandising para impulsar ventas, el diseño de piezas publicitarias creativas que comunican eficazmente el mensaje de la marca y la gestión de contenido enfocada en generar conexiones significativas con la audiencia. Apasionado por transformar ideas en realidades visuales que cautivan, mi objetivo es aportar valor a través de mi creatividad, atención al detalle y capacidad para resolver problemas, buscando oportunidades para aplicar mis habilidades y contribuir al éxito de una empresa innovadora, mientras me comprometo con el aprendizaje continuo para adaptarme a las últimas tendencias del mercado.
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **Email:** [jcbuitrago2004@gmail.com](jcbuitrago2004@gmail.com)
+- **LinkedIn:** [linkedin.com/in/julian-camilo-buitrago-bejarano-04271b260/](https://linkedin.com/in/julian-camilo-buitrago-bejarano-04271b260/)
 
 ## 🏢 Experiencia Laboral
 ### **Empresa XYZ** _(2020 - Actualidad)_
@@ -17,58 +16,21 @@
 - Puesto ocupado y descripción breve.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **SENA Servico Nacional de Aprendizaje** _(2023 - 2025)_
+- Tecnologo Gestion de Mercados.
+### **SENA Servico Nacional de Aprendizaje** _(2024)_
+- Derechos dundamentales del trabajo.
+### **Smart academia de idiomas** _(2023)_
+- ingles B1.
+### **SENA Servico Nacional de Aprendizaje** _(2020 - 2021)_
+- Tecnico en contabilización de operaciones comerciales y finacieras
+### **Colegio Antonio Baraya** _(2021)_
+- Bachillerato
+
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Organizacion y visual merchandising**
+- **Ilustartor, Photoshop, Canca y Cutcup**
+- **Adaptabilidad**
 
----
-
-## 🎨 Formatos y Fuentes Disponibles
-
-### **Negrita:**
-- `**Texto en negrita**` → **Texto en negrita**
-
-### **Cursiva:**
-- `*Texto en cursiva*` → *Texto en cursiva*
-- `_Texto en cursiva_` → _Texto en cursiva_
-
-### **Combinado:**
-- `***Texto en negrita y cursiva***` → ***Texto en negrita y cursiva***
-
-### **Encabezados:**
-- `# Encabezado 1`
-- `## Encabezado 2`
-- `### Encabezado 3`
-
-### **Citas:**
-> Esto es una cita
-
-### **Código:**
-- `` `código en línea` `` → `código en línea`
-- ```
-  Código en bloque
-  ```
-
-### **Listas:**
-- `- Elemento de lista`
-- `1. Elemento numerado`
-
-### **Enlaces:**
-- `[Texto del enlace](https://ejemplo.com)` → [Texto del enlace](https://ejemplo.com)
-
-### **Imágenes:**
-- `![Texto alternativo](https://ejemplo.com/imagen.jpg)`
-
-### **Tablas:**
-| Encabezado 1 | Encabezado 2 |
-|-------------|-------------|
-| Dato 1     | Dato 2      |
-
----
-
-Esta plantilla en Markdown es editable y adaptable para cada estudiante. ¡Personaliza según sea necesario! 🎯
 
