@@ -9,11 +9,9 @@ Tecnólogo en Gestión de Mercados con una sólida trayectoria en la creación d
 - **LinkedIn:** [linkedin.com/in/julian-camilo-buitrago-bejarano-04271b260/](https://linkedin.com/in/julian-camilo-buitrago-bejarano-04271b260/)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
-
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **Pontificia Universidad Javeriana** _(2025 - Actualidad)_
+- gestion de mercados.
+Apoyé la planificación y ejecución de estrategias de comunicación y publicidad para eventos y proyectos internos.	Coordiné la logística y promoción de eventos académicos, asegurando visibilidad y asistencia.
 
 ## 🎓 Educación
 ### **SENA Servico Nacional de Aprendizaje** _(2023 - 2025)_
